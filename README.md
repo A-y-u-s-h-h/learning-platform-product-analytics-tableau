@@ -44,16 +44,16 @@ This project was developed as part of a **guided Tableau analytics course on Ude
 ![Engagement Year](images/Engagement_Year_db.png)
 
 ### 3) Cohort Retention
-![Cohort Retention](images/cohort_retention_db.png)
+![Cohort Retention](images/Cohort_Engagement_db.png)
 
 ### 4) Exams & Certificates
-![Exams & Certificates](images/exams_certificates_db.png)
+![Exams & Certificates](images/Exams_and_Certificates_db.png)
 
 ### 5) Career Track Funnel
-![Funnel](images/funnel_db.png)
+![Funnel](images/Exams_and_Funnel_db.png)
 
 ### 6) Learning Behavior
-![Learning](images/learning_db.png)
+![Learning](images/Learning_db.png)
 
 ---
 
