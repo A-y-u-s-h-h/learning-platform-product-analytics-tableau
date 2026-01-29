@@ -10,9 +10,16 @@ The goal is to understand:
 - Where users drop off in learning and exam funnels
 - How learning depth and outcomes differ across user segments
 
-This project originally developed as part of a guided Tableau analytics course and significantly extended into an independent, portfolio-ready product analytics case study with custom metrics, insights, and recommendations.
+## What I Did in This Project
 
----
+- Defined product metrics across activation, engagement, retention, and conversion
+- Designed end-to-end Tableau dashboards aligned to product lifecycle stages
+- Built cohort retention and funnel views to identify drop-offs
+- Segmented user behavior by free vs paid users
+- Translated insights into clear product and growth recommendations
+
+This project originated from a guided Tableau analytics course and was independently extended into a full product analytics case study, including custom metrics, cohort analysis, funnel design, and business recommendations.
+
 
 ## Business Context
 The platform offers subscription-based online courses and career tracks.
@@ -22,7 +29,6 @@ The core business goals are to:
 - Drive conversion from learning activity to exams and certifications
 - Understand differences between free and paid user behavior
 
----
 
 ## Product Questions Answered
 - How many registered users become **actively engaged learners**?
@@ -32,7 +38,6 @@ The core business goals are to:
 - How effective are exams and certifications as learning outcomes?
 - How does behavior differ between **free and paid users**?
 
----
 
 ## Key Product Metrics
 - **Activation Rate**: % of registered users who onboard successfully
@@ -42,7 +47,6 @@ The core business goals are to:
 - **Outcome Conversion**: exam → certificate funnel progression
 - **Course Performance**: minutes watched, completion rate, ratings
 
----
 
 ## How to Explore This Project
 
@@ -53,7 +57,6 @@ The core business goals are to:
 5. Review Learning Behavior to compare depth of engagement between user segments.
 6. Read Key Insights and Product Recommendations for business implications.
 
----
 
 ## Dashboards (Screenshots)
 
@@ -77,16 +80,14 @@ The core business goals are to:
 ### 6) Learning Behavior
 ![Learning](images/Learning_db.png)
 
----
 
 ## Key Insights
 - Retention shows a **sharp drop after the first engagement period**, suggesting onboarding friction.
 - Engagement growth appears driven more by **user volume than depth of learning**.
-- A relatively small fraction of enrolled users complete the **full career track funnel**.
+- A relatively small fraction (~1–2%) of enrolled users complete the **full career track funnel**, indicating significant drop-off between course completion and final certification.
 - Paid users show **more stable and sustained engagement patterns** vs free users.
 - A visible **engagement spike in August** suggests seasonality or campaign-driven behavior.
 
----
 
 ## Product Recommendations
 - Improve onboarding nudges during the **first engagement period** to reduce early churn.
@@ -95,7 +96,6 @@ The core business goals are to:
 - Reduce friction in final exam stages to improve certification completion.
 - Investigate seasonal engagement spikes to replicate successful campaigns.
 
----
 
 ## Tools & Skills Used
 - Tableau (Dashboards, Parameters, Calculated Fields)
@@ -105,7 +105,6 @@ The core business goals are to:
 - User Behavior Analysis
 - Data Visualization & Stakeholder Reporting
 
----
 
 ## Repository Structure
 ```text
