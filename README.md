@@ -14,7 +14,7 @@ This project originally developed as part of a guided Tableau analytics course a
 
 ---
 
-Business Context
+## Business Context
 The platform offers subscription-based online courses and career tracks.
 The core business goals are to:
 - Increase user activation after registration
@@ -44,7 +44,7 @@ The core business goals are to:
 
 ---
 
-How to Explore This Project
+## How to Explore This Project
 
 1. Start with the Overview dashboard to understand platform-level KPIs.
 2. Review Engagement dashboards to identify activation and usage trends.
