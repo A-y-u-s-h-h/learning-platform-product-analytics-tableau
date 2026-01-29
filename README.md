@@ -36,7 +36,7 @@ This project was developed as part of a **guided Tableau analytics course on Ude
 ## Dashboards (Screenshots)
 
 ### 1) Overview
-![Overview](images/overview.png)
+![Overview](images/Overviewdb.png) 
 
 ### 2) Engagement Trends
 ![Engagement Daily](images/engagement_daily.png)
