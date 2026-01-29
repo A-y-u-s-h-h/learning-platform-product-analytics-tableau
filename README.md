@@ -1,4 +1,5 @@
 # Learning Platform Product Analytics Dashboard (Tableau)
+  Target Role: Product Analyst / Product Analytics
 
 ## Project Overview
 This project analyzes user behavior across a digital learning platform, focusing on the **product lifecycle from onboarding to engagement, retention, and certification outcomes**.
@@ -9,7 +10,17 @@ The goal is to understand:
 - Where users drop off in learning and exam funnels
 - How learning depth and outcomes differ across user segments
 
-This project was developed as part of a **guided Tableau analytics course on Udemy** and extended into a **portfolio-ready product analytics case study** with clear metrics, insights, and recommendations.
+This project originally developed as part of a guided Tableau analytics course and significantly extended into an independent, portfolio-ready product analytics case study with custom metrics, insights, and recommendations.
+
+---
+
+Business Context
+The platform offers subscription-based online courses and career tracks.
+The core business goals are to:
+- Increase user activation after registration
+- Improve engagement retention over time
+- Drive conversion from learning activity to exams and certifications
+- Understand differences between free and paid user behavior
 
 ---
 
@@ -30,6 +41,17 @@ This project was developed as part of a **guided Tableau analytics course on Ude
 - **Learning Depth**: minutes watched per student
 - **Outcome Conversion**: exam → certificate funnel progression
 - **Course Performance**: minutes watched, completion rate, ratings
+
+---
+
+How to Explore This Project
+
+1. Start with the Overview dashboard to understand platform-level KPIs.
+2. Review Engagement dashboards to identify activation and usage trends.
+3. Analyze Cohort Retention to understand long-term user behavior.
+4. Examine Exams & Funnel dashboards to identify outcome drop-offs.
+5. Review Learning Behavior to compare depth of engagement between user segments.
+6. Read Key Insights and Product Recommendations for business implications.
 
 ---
 
