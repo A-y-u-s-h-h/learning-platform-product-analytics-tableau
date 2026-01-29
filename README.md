@@ -39,9 +39,9 @@ This project was developed as part of a **guided Tableau analytics course on Ude
 ![Overview](images/Overview_db.png) 
 
 ### 2) Engagement Trends
-![Engagement Daily](images/engagement_daily_db.png)
-![Engagement Month](images/engagement_month_db.png)
-![Engagement Year](images/engagement_year_db.png)
+![Engagement Daily](images/Engagement_Date_db.png)
+![Engagement Month](images/Engagement_Month_db.png)
+![Engagement Year](images/Engagement_Year_db.png)
 
 ### 3) Cohort Retention
 ![Cohort Retention](images/cohort_retention_db.png)
